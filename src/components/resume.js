@@ -47,7 +47,7 @@ class Resume extends React.Component {
                         <p>jessegriffincs@gmail.com</p>
 
                         <h5>Web</h5>
-                        <p>pages.github</p>
+                        <p>https://jessedagriffin.github.io/MyPortfolioSite</p>
 
                     </Cell>
 

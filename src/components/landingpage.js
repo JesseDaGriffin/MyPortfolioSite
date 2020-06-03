@@ -8,7 +8,6 @@ class Landing extends React.Component {
                 <Grid className="landing-grid">
                     <Cell col={12}>
                         <img 
-                            // src="https://shanghai-date.com/uploads/g/t/t/h/q2t34kjldqrqv0pl7ihh.png"
                             src={require('../img/linkedinphoto.jpg')}
                             alt="avatar"
                             className="profile-img" 
