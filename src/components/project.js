@@ -24,7 +24,7 @@ class Project extends React.Component {
         let image = "url(" + picUrl + ") center / cover"
 
         return(
-            <Card shadow={5} style={{minWidth: "450", height: "350px", margin: "auto", marginLeft: "20px", marginRight: "20px"}}>
+            <Card shadow={5} className="project-card" >
                 <CardTitle style={{color: "black", height: "190px", background: image}}>
                     {this.props.projectName}
                 </CardTitle>

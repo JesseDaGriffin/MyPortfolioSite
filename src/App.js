@@ -17,7 +17,7 @@ class App extends React.Component {
                             <Link to="/contact">Contact</Link>
                         </Navigation>
                     </Header>
-                    <Drawer title={<Link style={{textDecoration: "none", color: "black"}} to="/">My Portfolio</Link>}>
+                    <Drawer title={<Link style={{textDecoration: "none", color: "black"}} to="/MyPortfolioSite">My Portfolio</Link>}>
                         <Navigation>
                             <Link to="/resume">Resume</Link>
                             <Link to="/projects">Projects</Link>
