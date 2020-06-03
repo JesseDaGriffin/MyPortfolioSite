@@ -10,7 +10,7 @@
     background: linear-gradient(to left, #00dbde, #fc00ff); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
     
     text-align: center;
-    position: fixed;
+    position: absolute;
     left: 0;
     width: 100%;
     height: 100%;
@@ -76,7 +76,7 @@
 
 .contact-body {
     margin-top: 40px;
-    position: fixed;
+    position: absolute;
     width: 100%;
     height: 100%;
     justify-content: center;
@@ -108,13 +108,9 @@
     margin: auto;
 }
 
-.contact-list {
-    margin-left: 100px;
-}
-
 .contact-list i {
     font-size: 50px;
-    padding-right: 5rem;
+    padding-right: 1rem;
 }
 
 .resume-grid i {

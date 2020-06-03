@@ -29,15 +29,15 @@ class Contact extends React.Component {
                         <div className="contact-list">
                             <List>
                                 <ListItem>
-                                    <ListItemContent style={{fontSize: "40px", fontFamily: "Anton"}}>
-                                        <i className="fa fa-phone-square" aria-hidden="true" />
+                                    <ListItemContent style={{fontSize: "3vw", fontFamily: "Anton", justifyContent: "center"}}>
+                                        <i className="fa fa-phone-square" aria-hidden="true" /> <br />
                                         (360) 936 - 1067
                                     </ListItemContent>
                                 </ListItem>
 
                                 <ListItem>
-                                    <ListItemContent style={{fontSize: "40px", fontFamily: "Anton"}}>
-                                    <i className="fa fa-envelope-square" aria-hidden="true" />
+                                    <ListItemContent style={{fontSize: "3vw", fontFamily: "Anton", justifyContent: "center"}}>
+                                        <i className="fa fa-envelope-square" aria-hidden="true" /><br />
                                         jessegriffincs@gmail.com
                                     </ListItemContent>
                                 </ListItem>
