@@ -101,10 +101,10 @@ class Projects extends React.Component {
             return(
                 <div className="projects-grid" id="react-code">
                     <Project 
-                        projectName = "New Project"
-                        projectDescription = "This is a test of a new component"
+                        projectName = "Portfolio Site"
+                        projectDescription = "My first attempt at a React App. You are viewing the demo!"
                         lang = {this.state.activeTab}
-                        url = ""
+                        url = "https://github.com/JesseDaGriffin/MyPortfolioSite"
                     />
                 </div>
             )
