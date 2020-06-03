@@ -49,11 +49,6 @@ class Resume extends React.Component {
                         <h5>Web</h5>
                         <p>pages.github</p>
 
-                        <hr style={{borderTop:"3px solid #833fb2", width:"50%"}} />
-
-                        <h5>Download Resume</h5>
-
-                        <a href="files/JesseGriffinGeneralResume.pdf" target="_blank" download><i className="fa fa-download"/></a>
                     </Cell>
 
                     <Cell className="resume-right-col" col={8}>
