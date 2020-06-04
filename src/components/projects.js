@@ -90,7 +90,7 @@ class Projects extends React.Component {
                         projectName = "HP Capstone: Microservice Manager"
                         projectDescription = "Web App and engine that allows user to manipulate microservices. Engine mounts to microservices and exposes api. Users and privileges implemented for different actions"
                         lang = {this.state.activeTab}
-                        url = ""
+                        url = "https://github.com/unificate/journalpanel"
                     />
                 </div>
             )
