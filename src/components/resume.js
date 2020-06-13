@@ -25,8 +25,8 @@ class Resume extends React.Component {
                         <hr style={{borderTop:"3px solid #833fb2", width:"50%"}} />
 
                         <p>
-                            I have been programming for around four years. Throughout my education, I have learned many programming languages to produce programs and scripts
-                            to perform many different tasks. From beginning level java applications to full stack web applications, I have completed a variety of different projects.  
+                            I have been programming for around four years. Throughout my education, I have learned many languages to produce programs and scripts
+                            that perform many different tasks. From beginning level java applications to full stack web applications, I have completed a variety of different projects.  
                         </p>
 
                         <p>
@@ -62,7 +62,7 @@ class Resume extends React.Component {
                                 "Databases",
                                 "Systems Programming",
                                 "Algorithms",
-                                "Web Date",
+                                "Web Data",
                                 "Mobile App Dev",
                                 "Operating Systems",
                                 "AI",
