@@ -76,7 +76,7 @@ class Projects extends React.Component {
                                 projectName = "Back Up Current Directory"
                                 projectDescription = "Program that recursively backs up the cwd into a file called '.backup'. User can also use the '.backup' folder that is created to recover old or missing files."
                                 lang = {this.state.activeTab}
-                                url = "https://github.com/JesseDaGriffin/MyFTPService"
+                                url = "https://github.com/JesseDaGriffin/BackUpCurrentDirectory"
                             />
                         </Cell>
                     </Grid>
@@ -88,7 +88,7 @@ class Projects extends React.Component {
                 <div className="projects-grid" id="rails-code">
                     <Project 
                         projectName = "HP Capstone: Microservice Manager"
-                        projectDescription = "Web App and engine that allows user to manipulate microservices. Engine mounts to microservices and exposes api. Users and privileges implemented for different actions"
+                        projectDescription = "Web App and engine that allows user to manipulate microservices. Engine mounts to microservices and exposes API's. Users and privileges implemented for different actions."
                         lang = {this.state.activeTab}
                         url = "https://github.com/unificate/journalpanel"
                     />
@@ -102,7 +102,7 @@ class Projects extends React.Component {
                         <Cell>
                             <Project 
                                 projectName = "MTG Variants"
-                                projectDescription = "Android app that allows users to play variants of the Magic the Gathering card game. App aids in playing 'Archenemy' and 'Planechase'"
+                                projectDescription = "Android app that allows users to play variants of the Magic the Gathering card game. App aids in playing 'Archenemy' and 'Planechase'."
                                 lang = {this.state.activeTab}
                                 url = "https://github.com/JesseDaGriffin/MTGVariants"
                             />
@@ -110,7 +110,7 @@ class Projects extends React.Component {
                         <Cell>
                             <Project 
                                 projectName = "APoD Viewer"
-                                projectDescription = "Android app that displays the Astronomy Picture of the Day using nasa's api. User can also change the date and get the picture of that day."
+                                projectDescription = "Android app that displays the Astronomy Picture of the Day using nasa's API. User can also change the date and get the picture of that day."
                                 lang = {this.state.activeTab}
                                 url = "https://github.com/JesseDaGriffin/AndroidApps/tree/master/APoDViewer"
                             />
@@ -118,7 +118,7 @@ class Projects extends React.Component {
                         <Cell>
                             <Project 
                                 projectName = "OthelloWorld"
-                                projectDescription = "Android app that allows user to play the game 'Othello'"
+                                projectDescription = "Android app that allows user to play the game 'Othello'."
                                 lang = {this.state.activeTab}
                                 url = "https://github.com/JesseDaGriffin/AndroidApps/tree/master/OthelloWorld"
                             />

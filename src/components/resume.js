@@ -30,7 +30,7 @@ class Resume extends React.Component {
                         </p>
 
                         <p>
-                            I have also learned of different types of design patterns and have learned how to create technical documents, such as 
+                            I have also learned different types of design patterns and have learned how to create technical documents, such as 
                             Software Requirement Specifications (SRS).
                         </p>
 
@@ -76,7 +76,7 @@ class Resume extends React.Component {
                             startYear={2015}
                             endYear={2018}
                             relevantClasses={[
-                                "Intro to Data Structers", 
+                                "Intro to Data Structures", 
                                 "Programming Tools", 
                                 "Discrete Structures", 
                                 "HTML Fundamentals", 
@@ -89,7 +89,7 @@ class Resume extends React.Component {
                         <h2>Experience</h2>
 
                         <Experience 
-                            jobName="IT consultant / Office Assistant"
+                            jobName="IT Consultant / Office Assistant"
                             startYear="2018"
                             endYear="2019"
                             jobDescription="With this job, I had many office assistant responsibilities but also had the opportunity to learn about IT consulting. I 

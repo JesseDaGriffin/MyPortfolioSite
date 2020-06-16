@@ -17,8 +17,8 @@ class Contact extends React.Component {
                         />
 
                         <p style={{ width: "75%", margin: "auto", paddingTop: "1em" }}>
-                            I recently graduated WSUV and I am eager to find my first job in the computer science field. I am glad you have found my site and I'm excited to bring what I
-                            have learned to your team. Feel free to contact me in whatever method suits you. I look forward to hearing from your team!
+                            I recently graduated Washington State University and I am eager to find my first job in the computer science field. I am glad you have found my site and I'm excited to bring what I
+                            have learned to your company. Feel free to contact me in whatever method suits you. I look forward to hearing from your team!
                         </p>
                     </Cell>
                     <Cell col={6}>
